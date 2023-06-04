@@ -57,6 +57,3 @@ The following libraries are used in this project.
     - The caregivers can comment for today's diary. 
     - This is restricted until writing the diary.
 
-- Advice
-  - 
-  
