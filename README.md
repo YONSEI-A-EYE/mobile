@@ -57,3 +57,6 @@ The following libraries are used in this project.
     - The caregivers can comment for today's diary. 
     - This is restricted until writing the diary.
 
+- Advice
+  - Test you child's temperament based on 10 questions. 
+  - Using generative AI, give 5 advices based on your chat.
