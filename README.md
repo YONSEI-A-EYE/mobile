@@ -7,8 +7,8 @@
 ## Application Version
 
 - Android
-  - minSdkVersion : 31
-
+  - minSdkVersion : 31 (Please use upper version of Android 12)
+  - 
 - IOS
   - Make sure you have the Xcode version 14.0 or above installed on your computer.
   - IOS version with 16.2 (recommend to use simulator with iPhone 14 Pro Max with iOS 16.2)
@@ -24,8 +24,8 @@ The following libraries are used in this project.
 - firebase messaging
 
 ## Getting started
-  - Recommend to build in xcode with simulator iPhone 14 Pro Max with iOS 16.2
-  - It would be published ASAP
+  - For IOS, recommend to build in Xcode with simulator iPhone 14 Pro Max with iOS 16.2
+  - For android, you can install the aeye apk on here "https://drive.google.com/file/d/1qW2Co4vmBm9KzQfyYaS4zRNjopmG-RXN/view?usp=sharing"
 
 ## Usage
 <p>
@@ -43,8 +43,6 @@ The following libraries are used in this project.
   - Main caregiver gets identification code that should be shared to sub caregiver. The code identifies that they are parent.
   - Sub caregiver should input the identification code that would be shared by the main caregiver. 
   - Sub caregiver is restricted to write the diary. Other functions are all available to both.
-  - Can test with the test account
-    - (main : (id : main@gdsc.com, password : 12345678), sub : (id : sub@gdsc.com, password : 12345678)
 
 - Baby Monitoring
   - Video
@@ -59,5 +57,6 @@ The following libraries are used in this project.
     - The caregivers can comment for today's diary. 
     - This is restricted until writing the diary.
 
-
+- Advice
+  - 
   
